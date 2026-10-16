@@ -25,5 +25,5 @@
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: nattawatmuensa@gmail.com
 - GitHub: [@msnatt](https://github.com/msnatt)
