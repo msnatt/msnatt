@@ -4,7 +4,7 @@
 
 ทำงานด้าน IoT และระบบอัตโนมัติแบบ end-to-end ตั้งแต่ firmware ESP32 และการสื่อสารกับ PLC/HMI ไปจนถึง backend (PHP/PostgreSQL), real-time (WebSocket/WebRTC), แอป Flutter และ dashboard
 
-ปัจจุบันเป็น Software Developer ที่ Fieldtech Automation (ตั้งแต่ พ.ย. 2024) จบ Data Science and Software Innovation จากมหาวิทยาลัยอุบลราชธานี
+ปัจจุบันเป็น Software Developer ที่ Fieldtech Automation (ตั้งแต่ พ.ย. 2024)
 
 ## Tech
 
